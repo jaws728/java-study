@@ -1,22 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dff9d5c-7fc3-4613-8d6a-d7f1ddf2a697" name="Changes" comment="" />
+    <list default="true" id="7dff9d5c-7fc3-4613-8d6a-d7f1ddf2a697" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HTTP/html/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTP/src/socket/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/java/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/java/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/java/utils/SqlSessionFactoryUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/java/web/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/java/web/RegisterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/java/web/request/RequestHttp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/java/web/response/ResponseHttp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/webapp/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/webapp/mysql/tb_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-resgister/src/main/webapp/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat-server/src/main/java/URLEncode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat-server/src/main/java/servlet/HttpServletDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat-server/src/main/java/servlet/RequestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat-server/src/main/java/servlet/ResponseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat-server/src/main/java/servlet/ServletDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat-server/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat-server/src/main/webapp/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat-server/src/main/webapp/img/regex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcat-server/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI/GUI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI/GUI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/JDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/JDBC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUC/JUC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUC/JUC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewFeaturesJava/NewFeaturesJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NewFeaturesJava/NewFeaturesJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicTeam/BasicTeam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BasicTeam/BasicTeam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reflect/reflect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../reflect/reflect.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="28OhyHYNSp0PsuXqJGTDNepwqMc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "/Users/p/Desktop/pkcrazy/java/projs",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/login-resgister/src/main/webapp/mysql" />
+      <recent name="$PROJECT_DIR$/login-resgister/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$/login-resgister/src/main/resources" />
+      <recent name="$PROJECT_DIR$/login-resgister/src/main/java/pojo" />
+      <recent name="$PROJECT_DIR$/login-resgister/src/main/webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat10" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.23" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="login-resgister:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/login" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="a0a694b2-8cbb-4949-8133-7d6b4485d95c" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51414" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="login-resgister:war" />
+        </option>
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -27,10 +187,22 @@
       <option name="presentableId" value="Default" />
       <updated>1651093801639</updated>
       <workItem from="1651093802504" duration="66000" />
+      <workItem from="1660338702880" duration="2754000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
