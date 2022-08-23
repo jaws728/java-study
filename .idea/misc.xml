@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ajax-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/cookies-sessions" />
     <file type="web" url="file://$PROJECT_DIR$/JSP" />
     <file type="web" url="file://$PROJECT_DIR$/tomcat-server" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/tomcat-server/pom.xml" />
+        <option value="$PROJECT_DIR$/MyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/cookies/pom.xml" />
         <option value="$PROJECT_DIR$/JSP/pom.xml" />
+        <option value="$PROJECT_DIR$/ajax-demo/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" project-jdk-name="18" project-jdk-type="JavaSDK" />
 </project>

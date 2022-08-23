@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:00:27:47 +0100] "GET /ajax-demo HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:00:27:47 +0100] "GET /ajax-demo/ HTTP/1.1" 404 971 http-bio-8080-exec-3 18
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:00:27:57 +0100] "GET /ajax-demo/ajaxServlet HTTP/1.1" 200 11 http-bio-8080-exec-4 3
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:00:28:11 +0100] "GET /ajax-demo/ajaxServlet HTTP/1.1" 200 11 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:00:32:54 +0100] "GET /ajax-demo/axiosServlet HTTP/1.1" 200 12 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [23/Aug/2022:00:33:47 +0100] "GET /ajax-demo/axiosServlet HTTP/1.1" 200 12 http-bio-8080-exec-9 1

@@ -6,9 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="tomcat-server" />
+        <module name="MyBatis" />
+        <module name="ajax-demo" />
         <module name="JSP" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cookies-sessions" target="10" />
+      <module name="tomcat-server" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
